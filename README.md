@@ -8,4 +8,4 @@ For my end of year group project at university, we were tasked with learning and
 So far, I have completed the hardware infrastructure to faciliate trades so that complex models can be run over it. I have also set up the ethernet ports to allow the board to connect the internet.
 
 ## Current Development
-At the moment, I am currently looking to automate the pre-processing of market data so that it may finally be used over live market feed  - so it may take some time before I build a whole system capable of excecuting live trades! :)  But, I have passed through test data and the board has a latency of roughly 7 ms. I hope to use Github to catalogue my work so far and track future updates. Stay tuned!
+At the moment, I am currently looking to automate the pre-processing of market data so that it may finally be used over live market feed  - so it may take some time before I build a whole system capable of excecuting live trades! :)  But, I have passed through test data and the board has a latency of roughly 3 ms. I hope to use Github to catalogue my work so far and track future updates. Stay tuned!
