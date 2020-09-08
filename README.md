@@ -8,4 +8,6 @@ For my end of year group project at university, we were tasked with learning and
 So far, I have completed the hardware infrastructure to faciliate trades so that complex models can be run over it. I have also set up the ethernet ports to allow the board to connect the internet.
 
 ## Current Development
-At the moment, I am currently looking at ways to add a GUI to visualise stock movemnts and set trading decisions (such as auto-sell/auto-buy after a stock has reached a certain price). Stay tuned for updates!
+At the moment, I am currently looking at ways to add a GUI to visualise stock movemnts and set trading decisions (such as auto-sell/auto-buy after a stock has reached a certain price) using the Jupiter Notebook. 
+
+### Stay tuned for updates!
