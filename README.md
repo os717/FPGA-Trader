@@ -1,4 +1,4 @@
-# basic_hft_trader
+# FPGA-Trader
 Hi, thanks for stopping by. This is a project I am currently working on to build a low-latency trading platform using an FPGA.
 
 ## Inspiration
